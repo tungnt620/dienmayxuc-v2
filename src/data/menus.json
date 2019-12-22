@@ -1,10 +1,3 @@
 {
-  "main": [
-    {
-      "identifier": "tung",
-      "title": "tung",
-      "url": "/",
-      "weight": 1
-    }
-  ]
+  "main": []
 }
