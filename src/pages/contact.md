@@ -15,6 +15,9 @@ sections:
     title: Liên hệ
     type: section_contact
 menus:
+  main:
+    title: Liên hệ
+    weight: 1
   secondary:
     title: Liên hệ
     weight: 3
