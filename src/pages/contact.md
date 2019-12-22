@@ -4,6 +4,10 @@ sections:
   - bg: gray
     content: >+
       <p style="text-align: center; font-size: 1.5rem;">
+
+      <img
+      src="https://dienmayxuc-v2-ed89c.netlify.com/images/telephone-handle-silhouette.svg"
+      style="width: 30px;">
         <a href="tel:0867744637">Tiến - 0867744637</a>
       </p>
 
