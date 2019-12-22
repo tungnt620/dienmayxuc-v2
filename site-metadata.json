@@ -3,7 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "Azimuth",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/logo.png",
     "has_nav": true,
     "menu": {
       "actions": [
@@ -20,7 +20,7 @@
     "has_subscribe": false,
     "social_title": "Community",
     "tagline": "SaaS theme by Stackbit",
-    "logo_img": "images/logo_alt.png",
+    "logo_img": "/images/logo.png",
     "has_social": true,
     "content": "&copy; Stackbit. All rights reserved.",
     "links": [
