@@ -2,14 +2,16 @@
 title: Trang chủ
 sections:
   - actions:
-      - label: Learn More
-        url: /features
+      - label: Hộp đen
+        url: /hop-den
+      - label: Cảm biến
+        url: /cam-bien
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
+      Chuyên mua bán, sửa chữa các loại hộp đen, cảm biến, thủy lực và động cơ
+      máy xúc, máy công trình
+    image: /images/hero-1.jpg
     section_id: hero
-    title: This Is A Big Hero Headline
+    title: 10 năm kinh nghiệm sửa chữa máy công trình
     type: section_hero
   - bg: gray
     featureslist:
