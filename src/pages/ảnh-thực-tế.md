@@ -1,8 +1,8 @@
 ---
-title: Ảnh thực tế
+title: Hộp đen
 menus:
   main:
     title: ''
 template: page
 ---
-Ảnh thực tế
+Hộp đen
