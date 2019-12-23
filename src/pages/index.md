@@ -44,6 +44,19 @@ sections:
           đường ống dẫn dầu, lọc dầu thuỷ lực, bộ làm mát dầu thuỷ lực.
         image: /images/thuy-luc-1.jpg
         title: Hệ thống thuỷ lực
+      - actions:
+          - label: Xem thêm
+            url: /dong-co
+        content: >-
+          Máy xúc thì có rất nhiều hãng như Komatsu, kobelco, Hitachi, Doosan
+          ..vv nhưng mỗi hãng lại sử dụng từng loại động cơ khác nhau từng loại
+          máy ví dụ như máy xúc của hãng Komatsu thì dùng chủ yếu là động cơ của
+          Cummins , còn Hitachi thì dùng động cơ của ISUZU hay hãng Kobelco thì
+          lại dùng động cơ của hãng Mitsubishi..vv nhưng về cơ bản chúng đều có
+          nguyên tắc hoạt động và cấu tạo giống nhau chỉ khác một chút về chất
+          liệu hình dáng
+        image: /images/dong-co-1.jpg
+        title: Động cơ
     section_id: features
     subtitle: >-
       Mua bán, trao đổi sửa chữa các loại linh kiện như hộp đen, cảm biến, điện,
