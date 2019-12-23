@@ -66,11 +66,11 @@ sections:
     title: Nhận xét từ người cũ
     type: section_reviews
   - actions:
-      - label: Get Started
-        url: /signup
+      - label: Liên hệ
+        url: /contact
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    subtitle: ''
+    title: Gọi ngay để có giá ưu đãi
     type: section_cta
   - bg: gray
     section_id: recent-posts
