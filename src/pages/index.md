@@ -16,14 +16,15 @@ sections:
   - bg: gray
     featureslist:
       - actions:
-          - label: Learn More
-            url: /features
+          - label: Xem thêm
+            url: /hop-den
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
-        title: The Best Feature of Your Services
+          Hộp đen máy xúc là một hộp điện bên trong có rất nhiều linh kiện điện
+          tử gắn trên một bo mạch, nó sẽ nhận tín hiệu điện áp từ các cảm biến,
+          màn hình, cục điện,… để xử lý và đưa ra những tín hiệu điều khiển đến
+          các thiết bị máy xúc như động cơ, bơm thủy lực, ...
+        image: /images/hop-den-1.jpg
+        title: Hộp đen
       - actions:
           - label: Learn More
             url: /features
@@ -44,9 +45,9 @@ sections:
         title: Cool Feature of Your Services
     section_id: features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    title: Features
+      Mua bán, trao đổi sửa chữa các loại linh kiện như hộp đen, cảm biến, điện,
+      thuỷ lực, động cơ các loại máy xúc máy công trình
+    title: Chúng tôi chuyên
     type: section_features
   - bg: white
     reviews:
