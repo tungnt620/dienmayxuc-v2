@@ -26,23 +26,24 @@ sections:
         image: /images/hop-den-1.jpg
         title: Hộp đen
       - actions:
-          - label: Learn More
-            url: /features
+          - label: Xem thêm
+            url: /he-thong-dien
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        title: Awesome Feature of Your Services
+          Hệ thống điện trên máy công trình rất hay bị sự cố nên việc tìm hiểu
+          cũng như khắc phục nhanh chóng để máy trở lại hoạt động bình thường
+          cũng là một vấn đề quan trọng.
+        image: /images/dien-1.jpg
+        title: Hệ thống điện
       - actions:
-          - label: Learn More
-            url: /features
+          - label: Xem thêm
+            url: /he-thong-thuy-luc
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        title: Cool Feature of Your Services
+          Trong hệ thống thuỷ lực trên máy xúc đào bao gồm các linh kiện sau:
+          thùng dầu thuỷ lực, bơm thuỷ lực, cụm van phân phối chính và các van
+          điều khiển, mô tơ quay toa, mô tơ di chuyển, các xi lanh thuỷ lực,
+          đường ống dẫn dầu, lọc dầu thuỷ lực, bộ làm mát dầu thuỷ lực.
+        image: /images/thuy-luc-1.jpg
+        title: Hệ thống thuỷ lực
     section_id: features
     subtitle: >-
       Mua bán, trao đổi sửa chữa các loại linh kiện như hộp đen, cảm biến, điện,
