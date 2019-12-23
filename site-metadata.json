@@ -2,7 +2,7 @@
   "title": "Điện máy xúc",
   "palette": "blue",
   "header": {
-    "title": "Azimuth",
+    "title": "Điện máy xúc",
     "logo_img": "/images/logo.png",
     "has_nav": true,
     "menu": {
@@ -13,7 +13,7 @@
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
     "has_subscribe": false,
-    "social_title": "Community",
+    "social_title": "Thảo luận",
     "tagline": "SaaS theme by Stackbit",
     "logo_img": "/images/logo.png",
     "has_social": true,
