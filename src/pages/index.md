@@ -74,7 +74,7 @@ sections:
     type: section_cta
   - bg: gray
     section_id: recent-posts
-    title: Latest Posts
+    title: Bài viết mới nhất
     type: section_posts
 menus:
   main:
