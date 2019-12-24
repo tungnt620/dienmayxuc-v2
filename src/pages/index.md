@@ -24,7 +24,7 @@ sections:
           màn hình, cục điện,… để xử lý và đưa ra những tín hiệu điều khiển đến
           các thiết bị máy xúc như động cơ, bơm thủy lực, ...
         image: /images/hop-den-1.jpg
-        title: Hộp đen
+        title: 'Hộp đen, cảm biến, bộ chuẩn đoán'
       - actions:
           - label: Xem thêm
             url: /he-thong-dien
