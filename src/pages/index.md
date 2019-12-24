@@ -85,6 +85,10 @@ sections:
     subtitle: ''
     title: Gọi ngay để có giá ưu đãi
     type: section_cta
+  - bg: gray
+    section_id: recent-post
+    title: Bài viết gần đây
+    type: section_posts
 menus:
   main:
     title: Trang chủ
