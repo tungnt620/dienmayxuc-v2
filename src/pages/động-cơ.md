@@ -7,6 +7,7 @@ img_path: /images/dong-co-1.jpg
 menus:
   main:
     title: Động cơ
+    weight: 9
 template: page
 ---
 
