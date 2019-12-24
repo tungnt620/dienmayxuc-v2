@@ -9,10 +9,12 @@ menus:
     title: Động cơ
 template: page
 ---
+![Bộ chuẩn đoán](/images/5c8d8be24924b07ae935.jpg "Bộ chuẩn đoán")
 
+![Cảm biến](/images/9bae3ae3fb25027b5b34.jpg "Cảm biến")
 
-![động cơ 2](/images/dong-co-1-1-.jpg "động cơ 2")
+![Cảm biến](/images/62b2228be34d1a13435c.jpg "Cảm biến")
 
-![Động cơ 3](/images/dong-co-2.jpg "Động cơ 3")
+![x](/images/0612c76900aff9f1a0be.jpg "x")
 
-![Động cơ 4](/images/dong-co-3.jpg "Động cơ 4")
+![Cảm biến](/images/c2584fa38f65763b2f74.jpg "Cảm biến")
