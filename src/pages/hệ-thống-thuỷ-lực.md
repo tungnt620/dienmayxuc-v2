@@ -8,6 +8,7 @@ img_path: /images/thuy-luc-1.jpg
 menus:
   main:
     title: Thuỷ lực
+    weight: 8
 template: page
 ---
 ![Hệ thống thuỷ lực 1](/images/thuy-luc-1-1-.jpg "Hệ thống thuỷ lực 1")
