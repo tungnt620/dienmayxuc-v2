@@ -7,6 +7,7 @@ img_path: /images/dien-1.jpg
 menus:
   main:
     title: Hệ thống điện
+    weight: 3
 template: page
 ---
 ![Hệ thống điện 1](/images/dien-1-1-.jpg "Hệ thống điện 1")
