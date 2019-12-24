@@ -7,6 +7,7 @@ img_path: /images/hop-den-1.jpg
 menus:
   main:
     title: 'Hộp đen, bộ chuẩn đoán'
+    weight: 2
 template: page
 ---
 ![Bộ chuẩn đoán](/images/5c8d8be24924b07ae935.jpg "Bộ chuẩn đoán")
