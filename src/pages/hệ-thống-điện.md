@@ -6,7 +6,7 @@ subtitle: >-
 img_path: /images/dien-1.jpg
 menus:
   main:
-    title: Động cơ
+    title: Hệ thống điện
 template: page
 ---
 ![Hệ thống điện 1](/images/dien-1-1-.jpg "Hệ thống điện 1")
