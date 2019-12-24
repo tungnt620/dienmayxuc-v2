@@ -23,7 +23,7 @@ sections:
 menus:
   main:
     title: Liên hệ
-    weight: 1
+    weight: 100
   secondary:
     title: Liên hệ
     weight: 3
