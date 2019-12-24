@@ -2,10 +2,8 @@
 title: Trang chủ
 sections:
   - actions:
-      - label: Hộp đen
-        url: /hop-den
-      - label: Cảm biến
-        url: /cam-bien
+      - label: Gọi ngay
+        url: /contact
     content: >-
       Chuyên mua bán, sửa chữa các loại hộp đen, cảm biến, thủy lực và động cơ
       máy xúc, máy công trình
@@ -17,7 +15,7 @@ sections:
     featureslist:
       - actions:
           - label: Xem thêm
-            url: /hop-den
+            url: /hộp-đen-cảm-biến-bộ-chuẩn-đoán
         content: >-
           Hộp đen máy xúc là một hộp điện bên trong có rất nhiều linh kiện điện
           tử gắn trên một bo mạch, nó sẽ nhận tín hiệu điện áp từ các cảm biến,
@@ -27,7 +25,7 @@ sections:
         title: 'Hộp đen, cảm biến, bộ chuẩn đoán'
       - actions:
           - label: Xem thêm
-            url: /he-thong-dien
+            url: /hệ-thống-điện
         content: >-
           Hệ thống điện trên máy công trình rất hay bị sự cố nên việc tìm hiểu
           cũng như khắc phục nhanh chóng để máy trở lại hoạt động bình thường
@@ -36,7 +34,7 @@ sections:
         title: Hệ thống điện
       - actions:
           - label: Xem thêm
-            url: /he-thong-thuy-luc
+            url: /hệ-thống-thuỷ-lực
         content: >-
           Trong hệ thống thuỷ lực trên máy xúc đào bao gồm các linh kiện sau:
           thùng dầu thuỷ lực, bơm thuỷ lực, cụm van phân phối chính và các van
@@ -46,7 +44,7 @@ sections:
         title: Hệ thống thuỷ lực
       - actions:
           - label: Xem thêm
-            url: /dong-co
+            url: /động-cơ
         content: >-
           Máy xúc thì có rất nhiều hãng như Komatsu, kobelco, Hitachi, Doosan
           ..vv nhưng mỗi hãng lại sử dụng từng loại động cơ khác nhau từng loại
